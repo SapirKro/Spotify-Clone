@@ -59,7 +59,13 @@ To get a local copy up and running, follow these steps:
       ```
       exp://192.168.1.160:8081/--/spotify-auth-callback/
       ```
-    - In the "Which API/SDKs are you planning to use?" section, select iOS or Android, based on the phone you want to use.
+    - In the "Which API/SDKs are you planning to use?" section, select:
+    ```
+    - Android / iOS
+    - Web Playback SDK
+    - Web API
+    ```
+    Choose iOS or Android, based on the phone you want to use.
 
 > **Note:** The Redirect URIs might need to change later, based on the address Expo chooses to open the app.Follow the next steps to ensure it's the correct URL.
 
