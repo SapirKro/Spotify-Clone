@@ -117,4 +117,5 @@ Login with your Spotify account and enjoy!
 
 ## Credits
 - This project is inspired by the Spotify application and its design,and for study purpose only.  
-- The following tutorial is used as a template: [YouTube Video Link](https://www.youtube.com/watch?v=mVd8XQ9Pl-0)
+- The following tutorial is used as a template:
+ [Let's build Spotify with React Native! (Spotify API, Expo App Auth) By Sujan Anand](https://www.youtube.com/watch?v=mVd8XQ9Pl-0)
