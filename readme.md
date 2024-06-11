@@ -65,9 +65,9 @@ To get a local copy up and running, follow these steps:
         - Web Playback SDK
         - Web API
         ```
-      Choose iOS or Android, based on the phone you want to use.
+      Choose iOS or Android, based on the phone you want to use.  
 
-    > **Note:** The Redirect URIs might need to change later, based on the address Expo chooses to open the app.Follow the next steps to ensure it's the correct URL.
+        > **Note:** The Redirect URIs might need to change later, based on the address Expo chooses to open the app.Follow the next steps to ensure it's the correct URL.
 
 6. **Configure Client ID and Client Secret**
     - Go to the "Settings" screen on the Spotify Developer Dashboard and copy the Client ID and Client Secret.
