@@ -1,8 +1,8 @@
 # Spotify Clone App
 <div align="center">
-	<img src="https://github.com/SapirKro/Spotify-Clone/blob/master/screens_images/home_screen.png?raw=true" alt="Spotify Clone App" width="30%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://github.com/SapirKro/Spotify-Clone/blob/master/screens_images/player.png?raw=true" alt="Spotify Clone App" width="30%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://github.com/SapirKro/Spotify-Clone/blob/master/screens_images/album.png?raw=true" alt="Spotify Clone App" width="30%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/SapirKro/Spotify-Clone/blob/main/screens_images/home_screen.png?raw=true" alt="Spotify Clone App" width="30%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/SapirKro/Spotify-Clone/blob/main/screens_images/player.png?raw=true" alt="Spotify Clone App" width="30%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="https://github.com/SapirKro/Spotify-Clone/blob/main/screens_images/album.png?raw=true" alt="Spotify Clone App" width="30%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 A client-side Spotify clone, bringing the essence of Spotify directly to your device. 
