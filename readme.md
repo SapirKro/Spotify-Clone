@@ -1,4 +1,4 @@
-# Spotify Clone App
+# Spotify Clone Application
 <div align="center">
 	<img src="https://github.com/SapirKro/Spotify-Clone/blob/main/screens_images/home_screen.png?raw=true" alt="Spotify Clone App" width="30%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github.com/SapirKro/Spotify-Clone/blob/main/screens_images/player.png?raw=true" alt="Spotify Clone App" width="30%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
